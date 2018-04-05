@@ -1,4 +1,4 @@
-# Learning objectives
+# Learning objectives for individual work
 
 * Network Activities
 * Remotes
