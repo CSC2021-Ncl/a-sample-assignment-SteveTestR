@@ -1,5 +1,11 @@
 # Learning objectives
 
-* this
-* that
-* the other
+* Network Activities
+* Remotes
+* Fetch/push
+* Branches
+* Student repositories
+* Github Classroom
+* Permissions
+* Exercises
+* Automated Testing
